@@ -35,15 +35,11 @@ This application uses the Syncfusion PDF Viewer to demonstrate seamless navigati
 
 ### Installation
 
-1. Navigate to the project directory:
-   ```bash
-   cd "Navigation Demo"
-   ```
+Install dependencies:
 
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 ### Development Server
 
